@@ -1,0 +1,10 @@
+name: BuildFFA
+version: 1.0-SNAPSHOT
+description: BuildFFA-Master
+author: pxscxl
+
+depend:
+   - "Origin"
+   - "CloudSpigot"
+
+main: de.pxscxl.spigot.buildffa.BuildFFA
